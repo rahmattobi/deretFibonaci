@@ -19,7 +19,7 @@ public class Github8 {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner fibonanci = new Scanner(System.in);
-        System.out.print("Masukan Jumlah Deret Fibonacci : ");
+  
         int n = fibonanci.nextInt();
         int fib[] = new int[n];
          
