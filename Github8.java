@@ -19,7 +19,7 @@ public class Github8 {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner fibonanci = new Scanner(System.in);
-  
+        
         int n = fibonanci.nextInt();
         int fib[] = new int[n];
          
